@@ -17,7 +17,7 @@
   <a href="mailto:bethanapallichandu123@gmail.com">
     <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="mailto:owaiskhan9654@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/Sunil-731820">
+  <a href="https://github.com/Chandrasekhar-2001">
     <img src="https://camo.githubusercontent.com/a098c1aed64458f40fe7b648b6c1d61c5b64ce041aff8870ca1e116329197fb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f4f776169736b68616e39363534" alt="GitHub badge" data-canonical-src="https://img.shields.io/badge/-Github-000?style=for-the-badge&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/Owaiskhan9654" style="max-width: 100%;">
   </a>
   <a href="https://www.linkedin.com/in/bethanapalli-chandra-sekhar-1019b7217" rel="nofollow">
